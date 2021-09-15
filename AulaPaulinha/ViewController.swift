@@ -7,11 +7,13 @@
 
 import UIKit
 
-public class ViewController: UIViewController {
+final class ViewController: UIViewController {
 
     public override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        //"Só o Ateismo pode pacificar o mundo hoje"
     }
 
 
